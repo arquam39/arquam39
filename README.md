@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Web Developer | WordPress & SEO Specialist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;WordPress+Developer;Learning+AI%2FML;MEAN+Stack+Developer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MEAN+Stack+Developer;WordPress+Developer;Learning+AI%2FML&center=true&width=500&height=50">
 </p>
 
 ---
@@ -42,21 +42,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arquam39&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquam39&layout=compact&theme=tokyonight" />
 </p>
 
 ---
