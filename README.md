@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Web Developer | WordPress & SEO Specialist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;WordPress+Developer;Learning+AI%2FML;Future+Full+Stack+Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;WordPress+Developer;Learning+AI%2FML;MEAN+Stack+Developer&center=true&width=500&height=50">
 </p>
 
 ---
@@ -23,13 +23,19 @@
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,php"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=wordpress,bootstrap,react,nodejs"/>
+</p>
+
+### 🗄 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
 ### ⚙️ Tools & Technologies
@@ -38,7 +44,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
