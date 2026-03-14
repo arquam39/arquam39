@@ -40,6 +40,30 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p>
@@ -51,7 +75,6 @@
 ---
 
 ⭐ *"Always learning, always building."*
-
 
 <!--
 **arquam39/arquam39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
