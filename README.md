@@ -40,30 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arquam39&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arquam39&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/arquam39/arquam39/blob/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
