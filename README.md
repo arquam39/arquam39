@@ -1,4 +1,81 @@
-## Hi there 👋
+# <h1 align="center">Hi 👋, I'm Arqam Ali</h1>
+
+<h3 align="center">Computer Science Student | Web Developer | WordPress & SEO Specialist</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;WordPress+Developer;Learning+AI%2FML;Future+Full+Stack+Engineer&center=true&width=500&height=50">
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Web Developer (WordPress, HTML, CSS, JavaScript)
+* 🌐 Interested in **SEO, AI/ML, and Network Engineering**
+* 📚 Currently learning **Full Stack Development**
+* ⚡ Passionate about building real-world web applications
+
+---
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress,bootstrap,react"/>
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+⭐ *"Always learning, always building."*
+
 
 <!--
 **arquam39/arquam39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
