@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science Student | Web Developer | WordPress & SEO Specialist</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MEAN+Stack+Developer;WordPress+Developer;Learning+AI%2FML&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;WordPress+Developer;Learning+AI%2FML&center=true&width=500&height=50">
 </p>
 
 ---
