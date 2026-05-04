@@ -1,10 +1,10 @@
-# <h1 align="center">Hi 👋, I'm Arqam Ali</h1>
+# <h1 align="center">Hi 👋, I'm Arqam Ali</h1> 
 
 <h3 align="center">Computer Science Student | MERN Stak Developer | WordPress & SEO Specialist</h3>
 
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;WordPress+Developer;Learning+AI%2FML&center=true&width=500&height=50">
-</p>
+</p> 
 
 ---
 
