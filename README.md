@@ -65,10 +65,6 @@
 <img src="https://skillicons.dev/icons?i=wordpress"/>
 </p>
 
-- WordPress Development
-- SEO Optimization
-- Responsive Web Design
-
 ### ⚙️ Tools & Technologies
 
 <p>
