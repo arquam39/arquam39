@@ -1,9 +1,9 @@
 # <h1 align="center">Hi 👋, I'm Arqam Ali</h1> 
  
-<h3 align="center">Computer Science Student | MERN Stak Developer | WordPress & SEO Specialist</h3>
+<h3 align="center">Computer Science Student | Full Stack MERN Developer | AI Integration Developer | WordPress & SEO Specialist</h3>
 
 <p align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;WordPress+Developer;Learning+AI%2FML&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Developer;AI+Integration+Developer;Prompt+Engineering;Learning+AI+Agents&center=true&width=500&height=50">
 </p> 
  
 ---
@@ -11,10 +11,11 @@
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
-* 💻 Web Developer (WordPress, HTML, CSS, JavaScript)
-* 🌐 Interested in **SEO, AI/ML, and Network Engineering**
-* 📚 **Full Stack Development**
-* ⚡ Passionate about building real-world web applications
+* 💻 Full Stack Developer specializing in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+* 🌐 Experienced in **WordPress Development, SEO, and Web Technologies**
+* 🤖 Exploring **AI Integration, Prompt Engineering, and AI Agents**
+* 🔗 Building applications with **APIs, Webhooks, and Automation Workflows**
+* 📚 Passionate about learning modern technologies and building real-world applications
 
 ---
 
@@ -26,17 +27,47 @@
 <img src="https://skillicons.dev/icons?i=python,js,html,css,php"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,bootstrap,react,nodejs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### 🗄 Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
+
+### 🤖 AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+- Prompt Engineering
+- AI Agent Development
+- AI Application Integration
+- LLM Integration
+- API-based AI Solutions
+- Workflow Automation
+- Webhooks Integration
+
+### 🌐 CMS & Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress"/>
+</p>
+
+- WordPress Development
+- SEO Optimization
+- Responsive Web Design
 
 ### ⚙️ Tools & Technologies
 
@@ -44,12 +75,30 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
+- Git & GitHub
+- REST APIs
+- Webhooks
+- API Integration
+- Deployment & Version Control
+
+---
+
+## 🚀 Development Focus
+
+- Full Stack MERN Applications
+- Scalable Backend APIs
+- Modern Frontend Interfaces
+- AI-powered Web Applications
+- AI Agents & Automation Systems
+- API and Webhook-based Integrations
+- Real-world Problem Solving
+
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/arquam-ali-shakeeb-2737a0302">
+<a href="https://linkedin.com/in/arquam-ali-shakeek-2737a0302">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
@@ -66,9 +115,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
+- 😄 Pronouns:
+- ⚡ Fun fact:
 -->
