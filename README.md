@@ -98,7 +98,7 @@
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/arquam-ali-shakeek">
+<a href="https://www.linkedin.com/in/arquam-ali-shakeeb/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
