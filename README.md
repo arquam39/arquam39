@@ -51,14 +51,6 @@
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-- Prompt Engineering
-- AI Agent Development
-- AI Application Integration
-- LLM Integration
-- API-based AI Solutions
-- Workflow Automation
-- Webhooks Integration
-
 ### 🌐 CMS & Web Technologies
 
 <p>
@@ -70,12 +62,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
-
-- Git & GitHub
-- REST APIs
-- Webhooks
-- API Integration
-- Deployment & Version Control
 
 ---
 
