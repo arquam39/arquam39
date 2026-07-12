@@ -5,7 +5,7 @@
 <p align="center"> 
 <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Developer;AI+Integration+Developer;Prompt+Engineering;Learning+AI+Agents&center=true&width=500&height=50">
 </p> 
- 
+  
 ---
 
 ## 🚀 About Me
